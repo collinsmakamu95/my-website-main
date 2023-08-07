@@ -29,11 +29,11 @@
   --transition: all 400ms ease;
 
 
-  font-synthesis: none;
+  /* font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  -webkit-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%; */
 }
 
 html{
@@ -47,7 +47,7 @@ html{
 
 
 body {
-
+ 
   background: var(--color-bg);
   color: var(--color-white);
   line-height: 1.7;
@@ -100,7 +100,7 @@ body {
  }
 
  a:hover {
-  color: #535bf2;
+  color: #e04848;
 }
 
 .btn{
@@ -126,8 +126,8 @@ body {
 }
 
 img{
-  display: block;
-  widows: 100%;
+  display: block;  
+  width: 100%;
   object-fit: cover;
 }
 
