@@ -40,10 +40,12 @@ const About = () => {
             </article>
           </div>
           <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Provident
-            non expedita est voluptas? Exercitationem quibusdam, quia aliquam
-            necessitatibus doloremque nobis repellat blanditiis omnis laborum
-            quod. Ex quam cum consectetur aliquam!
+            Dedicated Software Developer and a Cybersecurity Junior with a
+            passion for mobile, web development, digital forensics, threat
+            hunting and incident response.2 years of experience building
+            interactive mobile applications and creating responsive websites.
+            Currently building my Cyber Security Analyst skill through the use
+            of various certifications and projects/labs.
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk
