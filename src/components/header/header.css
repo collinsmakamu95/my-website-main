@@ -69,6 +69,12 @@ header {
     height: 68vh;
   }
 }
+
+@media screen and (max-width: 768px) {
+  header {
+    height: 72vh;
+  }
+}
 /* ==================== Media Queries  (Small Devices, Phones )   ===================== */
 
 @media screen and (max-width: 600px) {
