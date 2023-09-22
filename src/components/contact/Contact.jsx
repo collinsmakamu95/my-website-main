@@ -45,7 +45,7 @@ const Contact = () => {
         </div>
         {/* ----- Start of Form below ----- */}
 
-        <form ref={form} onSubmit={sendEmail}>
+        {/* <form ref={form} onSubmit={sendEmail}>
           <input
             type="text"
             name="name"
@@ -62,7 +62,7 @@ const Contact = () => {
           <button type="submit" className="btn btn-primary">
             Send Message
           </button>
-        </form>
+        </form> */}
       </div>
     </section>
   );
