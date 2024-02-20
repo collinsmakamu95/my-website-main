@@ -29,42 +29,42 @@ const Experience = () => {
               <BiLogoFlutter className="experience__icon" />
               <div>
                 <h4>FLUTTER</h4>
-                <small className="text-light">Experienced</small>
+{/*                 <small className="text-light">Experienced</small> */}
               </div>
             </article>
             <article className="experience__details">
               <SiDart className="experience__icon" />
               <div>
                 <h4>DART</h4>
-                <small className="text-light">Intermediate</small>
+{/*                 <small className="text-light">Intermediate</small> */}
               </div>
             </article>
             <article className="experience__details">
               <BiLogoJavascript className="experience__icon" />
               <div>
                 <h4>JAVASCRIPT</h4>
-                <small className="text-light">Intermediate</small>
+{/*                 <small className="text-light">Intermediate</small> */}
               </div>
             </article>
             <article className="experience__details">
               <FaReact className="experience__icon" />
               <div>
                 <h4>REACT</h4>
-                <small className="text-light">Intermediate</small>
+{/*                 <small className="text-light">Intermediate</small> */}
               </div>
             </article>
             <article className="experience__details">
               <AiOutlineHtml5 className="experience__icon" />
               <div>
                 <h4>HTML</h4>
-                <small className="text-light">Experienced</small>
+{/*                 <small className="text-light">Experienced</small> */}
               </div>
             </article>
             <article className="experience__details">
               <BiLogoCss3 className="experience__icon" />
               <div>
                 <h4>CSS</h4>
-                <small className="text-light">Intermediate</small>{" "}
+{/*                 <small className="text-light">Intermediate</small>{" "} */}
               </div>
             </article>
           </div>
@@ -79,35 +79,35 @@ const Experience = () => {
               <BiLogoNodejs className="experience__icon" />
               <div>
                 <h4>Node.js</h4>
-                <small className="text-light">Experienced</small>
+{/*                 <small className="text-light">Experienced</small> */}
               </div>
             </article>
             <article className="experience__details">
               <BsFiletypeSql className="experience__icon" />
               <div>
                 <h4>SQL</h4>
-                <small className="text-light">Intermediate</small>
+{/*                 <small className="text-light">Intermediate</small> */}
               </div>
             </article>
             <article className="experience__details">
               <BiLogoFirebase className="experience__icon" />
               <div>
                 <h4>Firebase</h4>
-                <small className="text-light">Intermediate</small>
+{/*                 <small className="text-light">Intermediate</small> */}
               </div>
             </article>
             <article className="experience__details">
               <BiLogoMongodb className="experience__icon" />
               <div>
                 <h4>MongoDB</h4>
-                <small className="text-light">Intermediate</small>
+{/*                 <small className="text-light">Intermediate</small> */}
               </div>
             </article>
             <article className="experience__details">
               <BiLogoPython className="experience__icon" />
               <div>
                 <h4>Python</h4>
-                <small className="text-light">Experienced</small>
+{/*                 <small className="text-light">Experienced</small> */}
               </div>
             </article>
           </div>
@@ -122,21 +122,21 @@ const Experience = () => {
               <SiKalilinux className="experience__icon" />
               <div>
                 <h4>Kali Linux</h4>
-                <small className="text-light">Experienced</small>
+{/*                 <small className="text-light">Experienced</small> */}
               </div>
             </article>
             <article className="experience__details">
               <BiLogoPython className="experience__icon" />
               <div>
                 <h4>Python</h4>
-                <small className="text-light">Experienced</small>
+{/*                 <small className="text-light">Experienced</small> */}
               </div>
             </article>
             <article className="experience__details">
               <SiWireshark className="experience__icon" />
               <div>
                 <h4>Wireshark</h4>
-                <small className="text-light">Intermediate</small>
+{/*                 <small className="text-light">Intermediate</small> */}
               </div>
             </article>
           </div>
